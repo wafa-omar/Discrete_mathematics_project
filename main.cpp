@@ -5,8 +5,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"Name : Ghada Hussien Arrefaey"<<endl;
-    cout<<"Number : 213010050"<<endl;
     cout<<"This is CS200 project"<<endl<<endl<<endl;
 
 
