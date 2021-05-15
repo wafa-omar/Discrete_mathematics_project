@@ -2,8 +2,6 @@
 
 using namespace std;
 
-/*This Project is made by Ghada Hussien Arrefaey
-Number : 213010050*/
 
 int main()
 {
